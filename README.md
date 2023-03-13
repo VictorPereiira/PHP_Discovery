@@ -29,18 +29,20 @@ PHP_Discovery from [StudyVerse](https://github.com/VictorPereiira/StudyVerse)
 
 ### PHP Study
 
-1. To learnig fundamentals.
+1. To learning fundamentals.
 
 ## Content
 
 ### Box
 
 - Read
-   - abc
+   - [PHP in 2023](https://stitcher.io/blog/php-in-2023)
+   - [Environment - Docker + CodeIgniter 4](https://stackoverflow.com/questions/64371440/how-to-containerise-codeigniter-project-using-docker)
+   - [Environment - Docker + CodeIgniter 3](./Environment%20-%20CodeIgniter%203%20+%20Mysql%20with%20Docker%20Compose.md)
 - Youtube Videos
-   - abc
+   - [PHP Evolution by Vinicius Dias](https://youtu.be/8NKXcfXR3S0)
 - Courses
-   - abc
+   - [PHP + CodeIgniter 3 by DevMedia](https://youtu.be/tgQ1d_3BKtg)
 ### Requirements
 - abc
   
@@ -70,5 +72,3 @@ PHP_Discovery from [StudyVerse](https://github.com/VictorPereiira/StudyVerse)
     Made by 👨🏾‍💻 
     <a href="https://github.com/VictorPereiira">VictorPereira</a>
 </p>
-
-
