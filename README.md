@@ -30,6 +30,31 @@ PHP_Discovery from [StudyVerse](https://github.com/VictorPereiira/StudyVerse)
 ### PHP Study
 
 1. To learning fundamentals.
+   - Output and Input value
+   - Save value ( Variable and Constant)
+     - Type Number and String
+     - Type Array
+     - Type Object Literal
+     - Display type
+   - Scope
+   - Comments
+2. Number Manipulation
+   - Arithmetics operators
+   - Increment and Decrement operators
+   - Atribuite operators
+   - Comparation operators
+   - Logic Operators
+3. String Manipulation
+   - Aspas duplas e Aspas Simples
+   - Concatenação
+4. Array Manipulation
+5. Object Manipulation
+6. POO
+
+
+### Projects
+
+- [Sample-APP CodeIgniter 3](https://github.com/VictorPereiira/php_sample-app_codeignite-3)
 
 ## Content
 
@@ -52,12 +77,30 @@ PHP_Discovery from [StudyVerse](https://github.com/VictorPereiira/StudyVerse)
     
 ### How to do
 
-1. How to do...
+1. Variable and Constant
+2. How to work with array
+
+- Variable and Constant
+```php
+$variable = "this is a variable";            
+define("constant", "this is a constant");    global
+```
+
+How to work with array
+   - array of array.
+   - associative array = JS literal object
+```php
+$array = ["a", "b", "c"]
+$array[] = "d"
+echo count($array)
+```
 
 
 ### Notes
-
-
+- variable of variable `$$`
+- Check type  `is_string(var)` 
+- Point of JS is `->` here
+- Local scope variable use global array 
 
 ## How to contribute
 - Make a fork;
