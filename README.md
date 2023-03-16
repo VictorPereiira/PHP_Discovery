@@ -97,6 +97,9 @@ echo count($array)
 
 
 ### Notes
+https://qastack.com.br/programming/45790160/is-there-way-to-use-two-php-versions-in-xampp
+
+
 - variable of variable `$$`
 - Check type  `is_string(var)` 
 - Point of JS is `->` here
